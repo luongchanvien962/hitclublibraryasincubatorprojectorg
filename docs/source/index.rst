@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Hitclub - Cổng Game Bài Trực Tuyến Hàng Đầu Việt Nam với Đa Dạng Trò Chơi và Trải Nghiệm Đỉnh Cao
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Libraryasincubatorproject org <https://libraryasincubatorproject.org/>`_ là cổng game bài trực tuyến hàng đầu tại Việt Nam, ra đời năm 2015, với mục tiêu mang đến sân chơi an toàn và hấp dẫn, dưới sự cho phép của tập đoàn Hitclub. Tên miền Libraryasincubatorproject.org là địa chỉ chính thức để cập nhật link vào nhà cái Hitclub tại thị trường Việt Nam. Libraryasincubatorproject.org nổi bật với giao diện thân thiện, đồ họa ấn tượng, âm thanh sống động và an ninh cao nhờ công nghệ mã hóa tiên tiến. Libraryasincubatorproject.org thường xuyên tổ chức các giải đấu lớn, cung cấp nhiều chương trình khuyến mãi, hỗ trợ đa nền tảng và thiết bị, mang lại trải nghiệm mượt mà cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 56 P. An Dương, An Dương, Lê Chân, Hải Phòng 15603, Việt Nam. 
 
-   This project is under active development.
+Phone: 0947108941. 
 
-Contents
---------
+Email: info@libraryasincubatorproject.org. 
 
-.. toctree::
+Website: https://libraryasincubatorproject.org/ 
 
-   usage
-   api
+#hitclub #nhacaihitclub #trangchuhitclub #dangkyhitclub #linkhitclub
